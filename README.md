@@ -103,10 +103,13 @@ data = pd.read_csv("your_local_path/Warehouse_and_Retail_Sales.csv")
 4. Run all cells to process the data and output the standardized export file (`cleaned_retail_sales_analysis.csv`).
 5. Launch **Power BI Desktop**, open `retailAnalysis.pbix`, and redirect the dataset source to point to either the original source or your newly cleaned `.csv` output to play with the dashboard.
 
-👨‍💻 About the Author
-Hrushikesh Nitin Kumthekar 🎓 MSc in Data Analytics | National College of Ireland (Dublin, Ireland)
-💻 Computer Engineering Graduate I design structured analytics pipelines, conduct exploratory data analysis, and transform messy datasets into clear, structured insights. This repository serves as a hands-on demonstration of my skills in Python-based data manipulation, cleaning, and extracting content metrics to uncover strategic business patterns.
+## 👨‍💻 About the Author
 
-🚀 Connect With Me
-LinkedIn: linkedin.com/in/rnk89
-GitHub: github.com/RushiKumthekar
+**Hrushikesh Nitin Kumthekar** 🎓 **MSc in Data Analytics** | National College of Ireland (Dublin, Ireland)  
+💻 **Computer Engineering Graduate** I design structured analytics pipelines, conduct exploratory data analysis, and transform messy datasets into clear, structured insights. This repository serves as a hands-on demonstration of my skills in Python-based data manipulation, cleaning, and extracting content metrics to uncover strategic business patterns.
+
+### 🚀 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/rnk89](https://www.linkedin.com/in/rnk89/)
+* **GitHub:** [github.com/RushiKumthekar](https://github.com/RushiKumthekar)
+
